@@ -1,4 +1,4 @@
-#Credit Card Fraud Detection
+# Credit Card Fraud Detection
 
 Description
 This project aims to predict fraudulent credit card transactions using a Kaggle dataset that contains historical transaction data. The dataset includes various features such as transaction amount, time, and user data, along with labels indicating whether a transaction was fraudulent or not. We apply logistic regression to classify transactions as fraudulent or non-fraudulent based on these features.
