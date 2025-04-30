@@ -6,3 +6,4 @@ data/
 *.log
 *.db
 fraud_env/
+.DS_Store
